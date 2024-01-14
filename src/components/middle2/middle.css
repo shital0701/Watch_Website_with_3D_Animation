@@ -1,0 +1,175 @@
+body{
+    margin: 0;
+    font-family:'Krylon';
+}
+
+.mid-sec-main-container{
+ background-color: #927963;
+ position: relative;
+}
+
+.first-container{
+    height: 100vh;
+    width: 60%;
+    /* border: 1px solid white; */
+    font-family: 'Krylon';
+    display: flex;
+
+}
+
+.second-container{
+    height: 100vh;
+    width: 100%;
+}
+
+.text1{
+    font-size: 50px;
+    color: #372D25;
+}
+
+.text2{
+    font-size: 50px;
+    position: absolute;
+    top: 68px;
+    color: #372D25;
+    left: 4px;
+}
+
+/* .text3{
+    font-size: 50px;
+    position: absolute;
+    color: #372D25;
+    left: 121px;
+    top: 124px;
+} */
+
+.text4{
+    font-size: 50px;
+    position: absolute;
+    top: 183px;
+    left: 22px;
+    color: #372D25;
+}
+
+.text{
+    position: relative;
+    top: 96px;
+    left: 57px;
+    font-size: 45px;
+    font-family: Krylon;
+}
+
+.right-side{
+    font-family: Krylon;
+    font-size: 120px;
+    font-weight: 400;
+    line-height: 144px;
+    letter-spacing: 6.396999835968018px;
+    text-align: left;
+}
+
+
+.left-side{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+}
+
+.image-1{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}
+
+.image-2{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    right: 98px;
+    top: 362px;
+}
+
+.description-paragraph{
+    width: 1454.4px;
+    height: 48.37px;
+    top: 4828.97px;
+    left: 137.63px;
+    padding-left: 30px;
+
+}
+
+.image-conatiner{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+}
+
+.top-container{
+    height: 50%;
+
+}
+
+.bottom-container{
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec-image-1{
+    height: 365px;
+    width: 387px;
+}
+
+
+.sec-text-container{
+    height: 300px;
+    width: 300px;
+}
+
+.description-heading{
+    line-height: 2px;
+    padding: 30px;
+    color: #372D25;
+    overflow: hidden;
+}
+
+
+.description-heading{
+    font-family: Krylon;
+    font-size: 120px;
+    font-weight: 400;
+    line-height: 144px;
+}
+
+.paragraph-1{
+    position: absolute;
+    width: 273px;
+    height: 135px;
+    top: 657px;
+    left: 1215.74px;
+}
+
+.crafted-gold{
+    padding-left: 50px;
+}
+
+.gold-description-1{
+    width: 286.7px;
+    height: 54px;
+    top: 5350.84px;
+    left: 340.28px;
+}
+
+.gold-description-2{
+    width: 286.7px;
+    height: 54px;
+    top: 5350.84px;
+    left: 340.28px;
+}
+
+/* .space{
+    padding-right: 50px;
+} */
